@@ -1,10 +1,4 @@
 # классы в питоне!
-
-kartoshka.jarit()
-jarit(kartoshka)
-
-# комплексные числа в виде класса
-# a + b * i
 # модуль комплексного числа \sqrt{a^2 + b^2}
 
 from numpy import sqrt
